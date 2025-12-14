@@ -1,0 +1,7 @@
+# Ignore built executables and other build artifacts in the extension directory
+/extension/*
+!/extension/*.c
+!/extension/*.cpp
+!/extension/*.h
+!/extension/*.hpp
+!/extension/**/
