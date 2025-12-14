@@ -50,7 +50,7 @@ public:
             // 源对象非空时，分配新内存并拷贝内容
             if (rhs.len_ != 0) {
                 ptr = new char[rhs.len_ + 1];
-                memcpy(ptr, rhs.ptr_, len_ + 1);  // 拷贝含'\0'的完整字符串
+                memcpy(ptr, rhs.ptr_, rhs.len_ + 1);  // 拷贝含'\0'的完整字符串
             }
             delete[] ptr_;  // 释放当前对象的旧内存，避免内存泄漏
             ptr_ = ptr;     // 指向新分配的内存
