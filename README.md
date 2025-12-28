@@ -1,3 +1,4 @@
+勘误表链接：http://wyw.dcweb.cn/cppbook1_errata.pdf
 # cpp-in-action
 
 | 书籍章节                | 文件夹名                          | 设计说明                                                                 |
@@ -21,3 +22,5 @@
 | 第 16 章 并发编程                     | `concurrency_programming`           | 直接对应章节主题 “并发编程”，涵盖线程、锁、原子量、内存序等核心内容，术语通用且专业。 |
 | 第 17 章 异步编程                     | `asynchronous_programming`          | 区分 “并发” 与 “异步”，用 “asynchronous_programming” 精准对应章节的协程、Asio、future 等内容。 |
 | 第 18 章 探索 C++ 的工具              | `exploring_cpp_tools`               | “探索（exploring）” 对应章节标题，“C++ 工具（cpp_tools）” 涵盖编译器、Clang 系列工具、Sanitizer 等核心内容，贴合主题。 |
+
+
