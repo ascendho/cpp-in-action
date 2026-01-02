@@ -12,3 +12,6 @@
 /code/**/null_sentinel
 /code/**/stack_unwind
 /code/**/temporary_object
+/code/**/bad_transform
+/code/**/cxx20_views
+/code/**/transparent_hash
