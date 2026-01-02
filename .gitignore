@@ -10,3 +10,5 @@
 # ignore the reverse_iterate executable (built from code/08 - iterators)
 /code/**/reverse_iterate
 /code/**/null_sentinel
+/code/**/stack_unwind
+/code/**/temporary_object
