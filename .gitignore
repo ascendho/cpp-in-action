@@ -15,3 +15,4 @@
 /code/**/bad_transform
 /code/**/cxx20_views
 /code/**/transparent_hash
+/code/**/rvo
